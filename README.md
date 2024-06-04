@@ -17,7 +17,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
 
-- :telescope: Ambitious career transitioner who found her passion for coding, currently using PERN stack
+- :telescope: Ambitious career transitioner who found her passion for coding
 
 - :seedling: Looking to join a team to help me strengthen my skills and to build applications that help people thrive!
 
